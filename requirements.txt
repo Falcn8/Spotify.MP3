@@ -1,0 +1,4 @@
+beautifulsoup4
+eyed3
+requests
+yt-dlp
